@@ -5,3 +5,10 @@
 
 Link: https://www.kaggle.com/c/credit-default-prediction-ai-big-data/data  
 Geekbrains AI/BigData Loan Default Prediction Competition
+
+• Performing Data Cleaning, Preprocessing, Exploratory Analysis. Creating Data Pipeline to
+transform raw csv into train and test dataframes with
+Pandas, NumPy.  
+• Testing different classifiers (Logistics, SVC, k-NN,
+Tree, Naive Bayes) to compare for highest AUC - area
+under the ROC curve
